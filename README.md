@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer games and programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ---
-- 📫 How to reach me instagram --> _underscore(_nofunn_)underscore_
+- 📫 How to reach me instagram --> _underscore_nofunn_underscore_
 
 <!---
 Dmitrly/Dmitrly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

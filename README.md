@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmitrly
 - 👀 I’m interested in computer games and programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ---
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate ???
 - 📫 How to reach me instagram --> _underscore_nofunn_underscore_
 
 <!---

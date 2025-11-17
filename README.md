@@ -1,1 +1,1 @@
-Dmytro Komarovsky 62965 /
+Dmytro Komarovsky
